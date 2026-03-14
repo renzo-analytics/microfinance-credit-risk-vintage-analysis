@@ -1,4 +1,5 @@
-# microfinance-analisis-de-cohorte-dashboard
+# analisis-cohortes-microfinanciera
+
 Credit risk dashboard para una cartera de microfinanzas mediante SQL Server y Power BI con análisis de cohortes.
 Credit Risk Dashboard – Microfinance Portfolio
 
