@@ -34,7 +34,7 @@ El proyecto busca responder preguntas clave de gestión de cartera:
 microfinance-credit-risk-dashboard
 │
 ├── data
-│   └── base_vintage_detalle.csv
+│   └── MicrofinanceDB.bak
 │
 ├── SQL
 │   ├── 01_exploracion_datos.sql
