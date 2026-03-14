@@ -25,7 +25,7 @@ SELECT
 FROM dbo.base_vintage_detalle;
 
 
--- KPI 5: porcentaje de créditos con al menos una cuota vencida
+-- KPI 5: porcentaje de crÃ©ditos con al menos una cuota vencida
 SELECT
     COUNT(DISTINCT CASE WHEN flag_mora = 1 THEN id_credito END) AS creditos_con_mora,
     COUNT(DISTINCT id_credito) AS creditos_totales,
