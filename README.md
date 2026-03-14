@@ -28,6 +28,29 @@ El proyecto busca responder preguntas clave de gestión de cartera:
 
 ¿Cómo evoluciona la mora desde el desembolso del crédito?
 
+## 📂 Estructura del proyecto
+
+microfinance-credit-risk-dashboard
+
+├── data
+│   └── base_vintage_detalle.csv
+│
+├── SQL
+│   ├── 01_exploracion_datos.sql
+│   ├── 02_construccion_base_vintage.sql
+│   ├── 03_calculo_indicadores_mora.sql
+│   ├── 04_vistas_powerbi.sql
+│
+├── PowerBI
+│   └── credit_risk_dashboard.pbix
+│
+├── images
+│   ├── dashboard_resumen.png
+│   └── vintage_matrix.png
+│
+└── README.md
+
+
 🗄 Data Pipeline (SQL Layer)
 
 Antes de construir el dashboard en Power BI se desarrolló una capa analítica en SQL Server para transformar los datos operativos en una estructura orientada al análisis de riesgo.
