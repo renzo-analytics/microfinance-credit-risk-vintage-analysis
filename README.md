@@ -31,7 +31,7 @@ El proyecto busca responder preguntas clave de gestión de cartera:
 ## 📂 Estructura del proyecto
 
 microfinance-credit-risk-dashboard
-
+│
 ├── data
 │   └── base_vintage_detalle.csv
 │
@@ -39,7 +39,7 @@ microfinance-credit-risk-dashboard
 │   ├── 01_exploracion_datos.sql
 │   ├── 02_construccion_base_vintage.sql
 │   ├── 03_calculo_indicadores_mora.sql
-│   ├── 04_vistas_powerbi.sql
+│   └── 04_vistas_powerbi.sql
 │
 ├── PowerBI
 │   └── credit_risk_dashboard.pbix
