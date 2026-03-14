@@ -172,6 +172,7 @@ capa de visualización (Power BI).
 
 📊 Dashboard
 Executive Dashboard
+![Dashboard de riesgo](images/dashboard_resumen.png)
 
 Esta página muestra el estado general de la cartera mediante indicadores clave.
 
@@ -193,6 +194,7 @@ zona
 asesor
 
 📉 Vintage Analysis
+![Matriz de Cohortes](images/vintage_matrix.png)
 
 El análisis de cohortes permite estudiar cómo evoluciona la mora desde el momento en que se desembolsa el crédito.
 
